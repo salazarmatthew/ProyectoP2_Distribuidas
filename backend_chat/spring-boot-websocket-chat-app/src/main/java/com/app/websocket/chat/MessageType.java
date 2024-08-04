@@ -1,4 +1,4 @@
-package com.alibou.websocket.chat;
+package com.app.websocket.chat;
 
 public enum MessageType {
 

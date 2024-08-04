@@ -1,4 +1,4 @@
-package com.alibou.websocket.chat;
+package com.app.websocket.chat;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.handler.annotation.MessageMapping;

@@ -1,4 +1,4 @@
-package com.alibou.websocket.config;
+package com.app.websocket.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
